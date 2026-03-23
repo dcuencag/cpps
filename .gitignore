@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Compiled objects
+*.o
+*.out
+*.a
+
+# Executables (add specific names if needed)
