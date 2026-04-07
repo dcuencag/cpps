@@ -31,4 +31,5 @@ int	main(int ac, char **av)
 		}
 		outfile << line << std::endl;
 	}
+	return 0;
 }

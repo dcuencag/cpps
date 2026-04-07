@@ -50,7 +50,7 @@ Now build it: Zombie class with `announce()`, `newZombie()` (heap), `randomChump
 ---
 
 ## Session 3 — Ex01 + Ex02: Arrays and references
-**Status:** [~] In progress (ex01 DONE, ex02 not started)
+**Status:** [x] DONE
 **Goal:** Allocate object arrays, understand what a reference is.
 
 ### Part A: Array allocation (~10 min)
@@ -70,7 +70,7 @@ Now build it: Zombie class with `announce()`, `newZombie()` (heap), `randomChump
 ---
 
 ## Session 4 — Ex03: References vs pointers as class members
-**Status:** [ ] Not started
+**Status:** [x] DONE
 **Goal:** Know WHEN to use a reference vs pointer inside a class.
 
 ### Part A: Experiment (~15 min)
@@ -86,7 +86,7 @@ Build Weapon, HumanA (always armed → reference), HumanB (maybe armed → point
 ---
 
 ## Session 5 — Ex04: File I/O and string operations
-**Status:** [ ] Not started
+**Status:** [x] DONE
 **Goal:** Read/write files in C++ and manipulate strings.
 
 ### Part A: File I/O basics (~10 min)
@@ -105,7 +105,7 @@ Build the mini-sed. Remember: `std::string::replace` is forbidden.
 ---
 
 ## Session 6 — Ex05 + Ex06: Pointers to member functions & switch
-**Status:** [ ] Not started
+**Status:** [x] DONE
 **Goal:** Use function pointers inside a class, and the switch statement.
 
 ### Part A: Member function pointers (~15 min)
