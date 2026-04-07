@@ -1,0 +1,8 @@
+Hello World Hello World Hello
+This line has no matches
+Replace at the start: Hello there
+Replace at the end: say Hello
+HelloHelloHello
+An empty line follows:
+
+Back to normal text here
